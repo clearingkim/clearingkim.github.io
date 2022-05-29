@@ -9,8 +9,7 @@ author_profile: true
 
 ## Published Papers
 
-**Spatial modeling of dyadic geopolitical interactions between moving actors** <br> 
-Forthcoming at *Political Science Research and Methods.* 2022. [[Paper]](https://doi.org/10.1017/psrm.2022.6) <br>
+**Spatial modeling of dyadic geopolitical interactions between moving actors** <br> *Political Science Research and Methods.* 2022. [[Paper]](https://doi.org/10.1017/psrm.2022.6) <br>
 With Howard Liu and Bruce A. Desmarais <br>
 > Political actors often interact spatially, and move around. However, with a few exceptions, existing political research has analyzed spatial dependence among actors with fixed geographic locations. Focusing on fixated geographic units prevents us from probing dependencies in spatial interaction between spatially dynamic actors, which are common in some areas of political science, such as sub-national conflict studies. In this note, we propose a method to account for spatial dependence in dyadic interactions between moving actors. Our method uses the spatiotemporal histories of dyadic interactions to project locations of future interactions—projected actor locations (PALs). PALs can, in turn, be used to model the likelihood of future dyadic interactions. In a replication and extension of a recent study of subnational conflict, we find that using PALs improves the predictive performance of the model and indicates that there is a clear relationship between actors’ past conflict locations and the likelihood of future conflicts.
 
