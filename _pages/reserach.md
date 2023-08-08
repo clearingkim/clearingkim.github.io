@@ -21,13 +21,17 @@ With Omer F. Yalcin, Samuel E. Bestvater, Kevin Munger, Burt L. Monroe, and Bruc
 
 ## Working Papers
 
-**Twitch Affordance and Political Communication in the streaming oriented platform** <br> *Under Review* [[Paper]](https://osf.io/9hdej) <br>
-Dissertation Chapter <br>
-> Until now, scholars of social media and politics have focused on text-oriented social media platforms, such as Facebook and Twitter, neglecting newer platforms focused on video and real-time chat. I investigate a video-oriented social media platform that has seen little attention from social scientists: Twitch. I study the patterns of political communication in the platform by focusing on the streaming chat of political “streamers”, a term for live broadcasters of the platform. In this paper, I aim to answer three questions on Twitch politics: 1) Who are political Twitch streamers? 2) What contents are covered in the political streams? 3) How do the political streamers and their audiences interact with each other? By using the supervised machine learning methods, I have identified 574 political streamers out of 59,272 total streamers, whose information is retrieved via the Twitch API. I have collected 33.6 million chat posts from political streamers’ live broadcasting and found 646,073 unique Twitch users who have posted at least one chat post. Using the wide corpus of text data, I conduct text analyses to observe what contents are covered in the political streams and network analyses to capture the interactions among political streamers and viewers of their stream.
+**Political Communication in the Streaming-oriented Platform, Twitch** <br> 
+*Under Review* [[Paper]](https://osf.io/9hdej) <br>
+> Until now, scholars of social media and politics have focused on text-oriented social media platforms, such as Facebook and Twitter, neglecting newer platforms focused on video and real-time chat. I investigate a
+video-oriented social media platform that has seen little attention from social scientists: Twitch. I study the patterns of political communication in the platform by focusing on the streaming chat of political “streamers”, a term for live broadcasters of the platform. In this paper, I aim to answer three questions on Twitch politics: 1) Who are political Twitch streamers? 2) What contents are covered in the political streams? 3)
+How do the political streamers and their audiences interact with each other? By using the supervised machine learning methods, I have identified 574 political streamers out of 59,272 total streamers, whose information
+is retrieved via the Twitch API. I have collected 33.6 million chat posts from political streamers’ live broadcasting and found 646,073 unique Twitch users who have posted at least one chat post. Using the
+wide corpus of text data, I conduct text analyses to observe what contents are covered in the political streams and network analyses to capture the interactions among political streamers and viewers of their stream.
 
 **Unmasking Support for Democratic Norms: Punishment and Partisanship in Comparative Perspective** <br>
-*Under Review.* <br>
-With Amanda Driscoll, Jay Krehbiel and Michel J. Nelson <br>
+*Revise and Resubmit. European Journal of Political Science Research* <br>
+With Amanda Driscoll, Jay Krehbiel, and Michel J. Nelson <br>
 > The consistent application of laws is a defining feature of modern liberal democracies. Yet, citizens may support unequal enforcement of the law for copartisans, and this effect may be particularly pronounced in places where the consolidation of democratic norms and values remains incomplete. We draw on an experiment embedded in representative surveys of Germany, the United States, Poland, and Hungary to examine citizens’ sense of appropriate punishment for a violation of a municipal mask-wearing ordinance. In all four countries, we find evidence of partisan bias in citizens’ willingness to enforce the law. But, in the two consolidated democracies, we find that concern about a crisis may ameliorate partisan biases in law enforcement: citizens who are most concerned about the crisis are also those who model the most consistency in enforcement, and are most willing to hold copartisans into account.
 
 **The Political Influence of Non-Politicized Friends: How do social networks affect the spread of protest information in social media?** <br>
