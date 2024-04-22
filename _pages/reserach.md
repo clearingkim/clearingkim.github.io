@@ -9,7 +9,7 @@ author_profile: true
 
 ## Published Papers
 
-**Unmasking Support for Democratic Norms: Punishment and Partisanship in Comparative Perspective** <br>
+**The consistency principle: Crisis perceptions, partisanship and public support for democratic norms in comparative perspective** <br>
 *European Journal of Political Research.* 2024. [[Paper]](http://doi.org/10.1111/1475-6765.12673) <br>
 With Amanda Driscoll, Jay Krehbiel, and Michel J. Nelson <br>
 > A growing body of research theorizes that partisanship can undermine democracy as citizens prioritize their political interests over abstract norms and values. We argue that crises might counteract intense partisanship by giving citizens clarity on the threats posed by rule of law violations. Examining the differential application of a law – a breach of democratic norms – we draw on an experiment embedded in representative surveys of Germany, the United States, Hungary and Poland to examine citizens’ sense of appropriate punishment for elites’ violation of a municipal mask-wearing ordinance. We find evidence of partisan bias in citizens’ willingness to support punishment in all four countries. But, in the two consolidated democracies, we find that concern about the Covid-19 crisis diminishes partisan biases in punishment preferences: citizens who are most concerned about the crisis also model the most consistency in their willingness to hold copartisans into account.
