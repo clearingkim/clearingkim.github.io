@@ -9,7 +9,7 @@ author_profile: true
 
 ## Published Papers
 **Understanding political communication and political communicators on Twitch** <br> 
-*Plos One* [[Paper]](http://doi.org/10.1371/journal.pone.0314429) <br>
+*Plos One.* 2024. [[Paper]](http://doi.org/10.1371/journal.pone.0314429) <br>
 > As new technologies rapidly reshape patterns of political communication, platforms like Twitch are transforming how people consume political information. This entertainment-oriented live streaming platform allows us to observe the impact of technologies such as "live-streaming" and "streaming-chat" on political communication. Despite its entertainment focus, Twitch hosts a variety of political actors, including politicians and pundits. This study explores Twitch politics by addressing three main questions: 1) Who are the political Twitch streamers? 2) What content is covered in political streams? 3) How do audiences of political streams interact with each other? To identify political streamers, I leveraged the Twitch API and supervised machine-learning techniques, identifying 574 political streamers. I used topic modeling to analyze the content of political streams, revealing seven broad categories of political topics and a unique pattern of communication involving context-specific "emotes." Additionally, I created user-reference networks to examine interaction patterns, finding that a small number of users dominate the communication network. This research contributes to our understanding of how new social media technologies influence political communication, particularly among younger audiences.
 
 **The consistency principle: Crisis perceptions, partisanship and public support for democratic norms in comparative perspective** <br>
