@@ -57,3 +57,6 @@ With Chloe Ahn, Drew Dimmery, and Kevin Munger  <br>
 
 **Twitching, fast and slow: Field experiment in political stream** <br>
 With Chloe Ahn, Drew Dimmery, and Kevin Munger <br>
+
+**Sexism, Support for Violence, and Democratic support: Evidence from South Korea** <br>
+With Boyoon Lee, Yoonseok Lee <br>
