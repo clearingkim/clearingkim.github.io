@@ -15,4 +15,4 @@ My research examines how digital platforms and online information environments s
 
 I have published in leading journals including *PLOS ONE*, *European Journal of Political Reserach*, *Political Science Research and Methods*, and the *Proceedings of the International AAAI Conference on Web and Social Media  (ICWSM)*. My work has been recognized with an Honorable Mention for the 2022 John Sprague Award from the APSA Political Networks section.
 
-For my CV, please click [here](https://github.com/clearingkim/clearingkim.github.io/blob/master/files/Kim_CV.pdf). If you have any questions, feel free to reach out!
+For my CV, please click [here](https://github.com/clearingkim/clearingkim.github.io/blob/master/files/Kim_CV.pdf).
