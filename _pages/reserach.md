@@ -57,7 +57,7 @@ With Hayden Arnold and Taegyoon Kim <br>
 
 
 ## Work in progress
-**"Swift in the end zone: Identity threat in a male-dominated space** <br>
+**Swift in the end zone: Identity threat in a male-dominated space** <br>
 With Riley Anderson, Byunghwee Lee, and Hyun Joon Park <br>
 > This study examines the experience of psychological threat in response to Taylor Swift’s visibility in National Football League (NFL) media coverage. As many of her fans—often women and LGBTQ+ individuals—began to take an interest in football, the traditionally male-dominated space of the NFL may have perceived her presence as threatening. In particular, this dynamic may be more threatening to conservatives, who tend to place a higher value on traditional norms. To investigate this phenomenon, we conducted two complementary studies. In Study 1 (N = 398), we carried out a pre-registered experiment to test whether Taylor Swift’s association with the NFL elicited greater psychological threat, especially among conservatives. In Study 2 (N = 10,813), we analyzed comments from the r/NFL subreddit that referenced Taylor Swift, examining how Reddit users reacted to her presence in the NFL and whether sentiments toward her were linked to political orientation. Taken together, these studies shed light on how cultural figures entering male-dominated domains can provoke identity-based threat and elicit politically patterned responses.
 
