@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**I will be on the job market for AY25-26! Please do not hesitate to contact me (ski15@iu.edu) if you have any related questions.**
+**I am on the job market for AY25-26! Please do not hesitate to contact me (ski15@iu.edu) if you have any related questions.**
 
 I am a postdoctoral researcher at [the Observatory on Social Media (OSoMe)](https://osome.iu.edu/) at Indiana University, where I work with [Filippo Menczer](https://cnets.indiana.edu/fil). I received my Ph.D. in [Political Science](https://polisci.la.psu.edu) and [Social Data Analytics](https://soda.la.psu.edu) from The Pennsylvania State University, advised by [Bruce Desmarais](http://brucedesmarais.com). 
 
