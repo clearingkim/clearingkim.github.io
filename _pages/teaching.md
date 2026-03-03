@@ -9,7 +9,7 @@ author_profile: true
 ### Ewha Womans University
 
 <b>37542: Introduction to Interactive Media</b> <br>
-Undergraduate, Division of Communication & Media, Spring 2026 <br>
+Undergraduate, Division of Communication & Media, Spring 2026   <br>
 
 <b>37540-1: Media Writing and Public Speech</b> <br>
 Undergraduate, Division of Communication & Media, Spring 2026 <br>
