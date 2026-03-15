@@ -52,15 +52,11 @@ Social media platforms face legal and regulatory pressures to moderate illegal c
 
 **LLMs can infer political alignment from online conversations** <br>
 With Byunghwee Lee, Yong-Yeol Ahn, Filippo Menczer, Jisun An, and Haewoon Kwak <br>
+*Preprint arXiv:2603.11253 (2026)* [[Paper]](https://arxiv.org/abs/2603.11253)<br>
+*Under review* <br>
 <details>
 <summary>Abstract</summary>
-Correlational structure in our trait (e.g., identities, cultures, and political attitudes) means that seemingly innocuous public social signals, such as following a band or using a specific slang, can reveal private traits.
-This possibility, especially when combined with massive, public social data and advanced computational methods, poses a fundamental privacy risk. 
-Given our increasing data exposure online and the rapid advancement of AI are increasing the misuse potential of such risk, it is therefore critical to understand capacity of large language models (LLMs) to exploit it.
-Here, using online discussions on Debate.org and Reddit, we show that LLMs can reliably infer hidden political alignment, significantly outperforming traditional machine learning models. 
-Prediction accuracy further improves as we aggregate multiple text-level inferences into a user-level prediction, and as we use more politics-adjacent domains.
-We demonstrate that LLMs leverage the words that can be highly predictive of political alignment while not being explicitly political. 
-Our findings underscore the capacity and risks of LLMs for exploiting socio-cultural correlates.
+Due to the correlational structure in our traits such as identities, cultures, and political attitudes, seemingly innocuous preferences like following a band or using a specific slang can reveal private traits. This possibility, especially when combined with massive, public social data and advanced computational methods, poses a fundamental privacy risk. As our data exposure online and the rapid advancement of AI are increasing the risk of misuse, it is critical to understand the capacity of large language models (LLMs) to exploit such potential. Here, using online discussions on Debate.org and Reddit, we show that LLMs can reliably infer hidden political alignment, significantly outperforming traditional machine learning models. Prediction accuracy further improves as we aggregate multiple text-level inferences into a user-level prediction, and as we use more politics-adjacent domains. We demonstrate that LLMs leverage words that are highly predictive of political alignment while not being explicitly political. Our findings underscore the capacity and risks of LLMs for exploiting socio-cultural correlates.
 </details>
 
 **Pace and scale drive toxicity in live political discourse** <br>
