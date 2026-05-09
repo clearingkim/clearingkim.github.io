@@ -8,6 +8,13 @@ author_profile: true
 {% include base_path %}
 
 ## Published Papers
+**The political influence of non-politicized Users: A survey experiment on engagement intentions toward protest information on Twitter** <br> 
+*Asian Communication Research* 2026. [[Paper]](https://doi.org/10.20879/acr.2026.23.005) <br>
+<details>
+<summary>Abstract</summary>
+How do the political characteristics of Twitter accounts shape users’ engagement intentions toward protest information? This article argues that the political characteristics of accounts sharing protest information affect how that information is interpreted and engaged with by other Twitter users. Specifiically, I suggest that whether Twitter accounts are perceived as overtly political or nonpolitical can shape how users respond to signals about political protests. I hypothesize that nonpolitical accounts may generate higher engagement intentions toward protest messages than political accounts, as they are seen as less biased or more trustworthy. To test this theory, I conducted an online experiment using vignettes that simulate the Twitter environment. Participants were exposed to protest-related Tweets and were asked whether they would retweet or like them, with some accounts presenting political traits in their profiles and others appearing nonpolitical. Contrary to my expectations, the results did not reveal a statistically signifificant difffference in participants’ responses between political and nonpolitical profiles. However, the study revealed unexpected patterns, including the role of education in shaping retweet behavior difffferently across political groups and the inflfluence of context-specifific factors, such as protest types and images, on user engagement. These fifindings suggest that individual characteristics and content features may interact in complex ways, warranting further exploration.
+</details>
+
 **The consistency principle: Crisis perceptions, partisanship and public support for democratic norms in comparative perspective** <br>
 *European Journal of Political Research.* 2025. [[Paper]](http://doi.org/10.1111/1475-6765.12673) <br>
 With Amanda Driscoll, Jay Krehbiel, and Michel J. Nelson <br>
@@ -67,13 +74,6 @@ With Hayden Arnold and Taegyoon Kim <br>
 Livestreaming platforms have become consequential arenas for political communication, yet scholars have limited understanding of how toxic expression emerges in their fast-moving and highly interactive chat environments. This study examines how structural features, political content, and moderation jointly shape toxicity in political livestreams on Twitch. Drawing on a novel dataset of approximately 116 million public chat messages from 16,432 broadcast sessions across 453 English-language political channels, we analyze toxicity dynamics using a fine-tuned language model and dynamic panel models that account for temporal dependence and unobserved heterogeneity. We identify two countervailing structural forces that play a central role in shaping toxic expression. Faster-paced chats are substantially more toxic, consistent with reduced visibility and accountability in highly ephemeral conversations. In contrast, larger audiences are associated with lower toxicity, suggesting that heightened perceived scrutiny and stronger normative salience can discipline behavior even in large-scale crowds. Political content is also positively associated with toxicity, while visible moderation activity shows little evidence of a preventive effect, consistent with the limits of reactive governance under real-time constraints. Together, these findings demonstrate that toxicity in political livestreaming is shaped by the interaction of structural pace, audience scale, and political salience, and they underscore how the distinctive communicative architecture of livestreaming fundamentally alters the conditions under which hostile political discourse emerges. The study contributes new empirical evidence on real-time political communication and highlights important implications for platform governance and the design of healthier digital public spheres.
 </details>
 
-**The political influence of non-politicized friends: How do social networks affect the spread of protest information in social media?** <br> 
-*Under review* <br>
-<details>
-<summary>Abstract</summary>
-How do social networks influence the spread of protest information on social media? This article argues that the political characteristics of accounts sharing protest information affect how that information is interpreted and spread by other Twitter users. Specifically, I suggest that whether Twitter accounts are perceived as overtly political or nonpolitical can shape how users respond to signals about political protests. I hypothesize that nonpolitical accounts may exert more influence in spreading protest messages than political accounts, as they are seen as less biased or more trustworthy. To test this theory, I conducted an online experiment using vignettes that simulate the Twitter environment. Participants were exposed to protest-related Tweets and were asked whether they would retweet or like them, with some accounts presenting political traits in their profiles and others appearing nonpolitical. Contrary to my expectations, the results did not reveal a statistically significant difference in participants’ responses between political and nonpolitical profiles. However, the study revealed unexpected patterns, including the role of education in shaping retweet behavior differently across political groups and the influence of context-specific factors, such as protest types and images, on user engagement. These findings suggest that individual characteristics and content features may interact in complex ways, warranting further exploration.
-</details>
-
 **Diversity and quality trade-offs in political news sources on different social media platforms** <br>
 With Ozgur Can Seckin, Filippo Menczer, and Kai-Cheng Yang <br>
 <details>
@@ -90,8 +90,11 @@ This study investigates the rapid growth and evolving network structure of Blues
 </details>
 
 ## Work in progress
-**Twitching, fast and slow: Field experiment in political stream** <br>
-With Chloe Ahn, Drew Dimmery, and Kevin Munger <br>
+**Compression of LLM Encoded Beliefs** <br>
+With Arash Badie-Modiri, Hasti Narimanzadeh, and Ted Hsuan Yun Chen <br>
+
+**Sexism, support for violence, and democratic support: Evidence from South Korea** <br>
+With Boyoon Lee and Yoonseok Lee <br>
 
 **Swift in the end zone: Identity threat in a male-dominated space** <br>
 With Riley Anderson, Byunghwee Lee, and Hyun Joon Park <br>
@@ -100,7 +103,6 @@ With Riley Anderson, Byunghwee Lee, and Hyun Joon Park <br>
 This study examines the experience of psychological threat in response to Taylor Swift’s visibility in National Football League (NFL) media coverage. As many of her fans—often women and LGBTQ+ individuals—began to take an interest in football, the traditionally male-dominated space of the NFL may have perceived her presence as threatening. In particular, this dynamic may be more threatening to conservatives, who tend to place a higher value on traditional norms. To investigate this phenomenon, we conducted two complementary studies. In Study 1 (N = 398), we carried out a pre-registered experiment to test whether Taylor Swift’s association with the NFL elicited greater psychological threat, especially among conservatives. In Study 2 (N = 10,813), we analyzed comments from the r/NFL subreddit that referenced Taylor Swift, examining how Reddit users reacted to her presence in the NFL and whether sentiments toward her were linked to political orientation. Taken together, these studies shed light on how cultural figures entering male-dominated domains can provoke identity-based threat and elicit politically patterned responses.
 </details>
 
-**Sexism, support for violence, and democratic support: Evidence from South Korea** <br>
-With Boyoon Lee and Yoonseok Lee <br>
-
+**Twitching, fast and slow: Field experiment in political stream** <br>
+With Chloe Ahn, Drew Dimmery, and Kevin Munger <br>
 
