@@ -48,15 +48,6 @@ The spread of misinformation related to health, especially vaccination, is a pot
 
 ## Working Papers
 
-**Audited takedown delays across social media reveal failure to reduce exposure to illegal content** <br>
-With Bao Tran Truong, Erfan Samieyan Sahneh, Gianluca Nogara, Enrico Verdolotti, Florian Saurwein-Scherer, Natascha Just, Luca Luceri, Silvia Giordano, and Filippo Menczer <br>
-*Preprint arXiv:2502.08841 (2025)* [[Paper]](https://arxiv.org/abs/2502.08841)<br>
-*Under review* <br>
-<details>
-<summary>Abstract</summary>
-Social media platforms face legal and regulatory pressures to moderate illegal content through takedown procedures. However, the effectiveness of content moderation varies widely across platforms due to differences in takedown deadlines imposed by various regulations. This study models the relationship between the timeliness of content removal and the persistence of illegal material on social media. By simulating illegal content diffusion using empirical data from sources like the DSA Transparency Database and Facebook NetzDG reports, we demonstrate that while rapid takedown (within hours) significantly reduces illegal content prevalence and exposure, longer delays (beyond 23 days) render moderation efforts futile. Our findings stress the need for regulatory frameworks with enforceable, short deadlines, such as those outlined in German law, to ensure meaningful content removal. These insights provide critical recommendations for policymakers aiming to enhance online safety and improve moderation strategies.
-</details>
-
 **LLMs can infer political alignment from online conversations** <br>
 With Byunghwee Lee, Yong-Yeol Ahn, Filippo Menczer, Jisun An, and Haewoon Kwak <br>
 *Preprint arXiv:2603.11253 (2026)* [[Paper]](https://arxiv.org/abs/2603.11253)<br>
@@ -66,12 +57,32 @@ With Byunghwee Lee, Yong-Yeol Ahn, Filippo Menczer, Jisun An, and Haewoon Kwak <
 Due to the correlational structure in our traits such as identities, cultures, and political attitudes, seemingly innocuous preferences like following a band or using a specific slang can reveal private traits. This possibility, especially when combined with massive, public social data and advanced computational methods, poses a fundamental privacy risk. As our data exposure online and the rapid advancement of AI are increasing the risk of misuse, it is critical to understand the capacity of large language models (LLMs) to exploit such potential. Here, using online discussions on Debate.org and Reddit, we show that LLMs can reliably infer hidden political alignment, significantly outperforming traditional machine learning models. Prediction accuracy further improves as we aggregate multiple text-level inferences into a user-level prediction, and as we use more politics-adjacent domains. We demonstrate that LLMs leverage words that are highly predictive of political alignment while not being explicitly political. Our findings underscore the capacity and risks of LLMs for exploiting socio-cultural correlates.
 </details>
 
+**Rebel Delegitimizing Rhetoric in Civil War** <br>
+With Ilayda Onder <br>
+*Under review* <br>
+<details>
+<summary>Abstract</summary>
+Civilians' wartime allegiances depend partly on who they believe may rightfully rule, giving rebels reason to attack the state's legitimacy. Yet research on rebel communication has concentrated on how insurgents present themselves, not how they portray their adversary. We argue that two mechanisms shape rebels' delegitimizing discourse: a credibility constraint imposed by audiences who learn about the war through channels rebels do not control, and a demand for moral repair created by rebels' own misconduct. We test the argument on the Kurdistan Workers' Party (PKK) insurgency in Turkey, scoring its monthly bulletin, Serxwebûn (431 issues, 1984–2019), with an original dictionary. Delegitimizing rhetoric expands after the PKK inflicts casualties on state forces, recedes as it absorbs losses, and intensifies as state repression deepens; after its own attacks on civilians, it shifts modestly toward vilification. We highlight how legitimacy in civil war is contested discursively as well as militarily.
+</details>
+
 **Pace and scale drive toxicity in live political discourse** <br>
 With Hayden Arnold and Taegyoon Kim <br>
 *Under review* <br>
 <details>
 <summary>Abstract</summary>
 Livestreaming platforms have become consequential arenas for political communication, yet scholars have limited understanding of how toxic expression emerges in their fast-moving and highly interactive chat environments. This study examines how structural features, political content, and moderation jointly shape toxicity in political livestreams on Twitch. Drawing on a novel dataset of approximately 116 million public chat messages from 16,432 broadcast sessions across 453 English-language political channels, we analyze toxicity dynamics using a fine-tuned language model and dynamic panel models that account for temporal dependence and unobserved heterogeneity. We identify two countervailing structural forces that play a central role in shaping toxic expression. Faster-paced chats are substantially more toxic, consistent with reduced visibility and accountability in highly ephemeral conversations. In contrast, larger audiences are associated with lower toxicity, suggesting that heightened perceived scrutiny and stronger normative salience can discipline behavior even in large-scale crowds. Political content is also positively associated with toxicity, while visible moderation activity shows little evidence of a preventive effect, consistent with the limits of reactive governance under real-time constraints. Together, these findings demonstrate that toxicity in political livestreaming is shaped by the interaction of structural pace, audience scale, and political salience, and they underscore how the distinctive communicative architecture of livestreaming fundamentally alters the conditions under which hostile political discourse emerges. The study contributes new empirical evidence on real-time political communication and highlights important implications for platform governance and the design of healthier digital public spheres.
+</details>
+
+**palsr: Projected Actor Locations for spatial modeling of dyadic interactions between moving actors** <br>
+With Howard Liu and Bruce Desmarais <br>
+*Under review* <br>
+
+**Audited takedown delays across social media reveal failure to reduce exposure to illegal content** <br>
+With Bao Tran Truong, Erfan Samieyan Sahneh, Gianluca Nogara, Enrico Verdolotti, Florian Saurwein-Scherer, Natascha Just, Luca Luceri, Silvia Giordano, and Filippo Menczer <br>
+*Preprint arXiv:2502.08841 (2025)* [[Paper]](https://arxiv.org/abs/2502.08841)<br>
+<details>
+<summary>Abstract</summary>
+Social media platforms face legal and regulatory pressures to moderate illegal content through takedown procedures. However, the effectiveness of content moderation varies widely across platforms due to differences in takedown deadlines imposed by various regulations. This study models the relationship between the timeliness of content removal and the persistence of illegal material on social media. By simulating illegal content diffusion using empirical data from sources like the DSA Transparency Database and Facebook NetzDG reports, we demonstrate that while rapid takedown (within hours) significantly reduces illegal content prevalence and exposure, longer delays (beyond 23 days) render moderation efforts futile. Our findings stress the need for regulatory frameworks with enforceable, short deadlines, such as those outlined in German law, to ensure meaningful content removal. These insights provide critical recommendations for policymakers aiming to enhance online safety and improve moderation strategies.
 </details>
 
 **Diversity and quality trade-offs in political news sources on different social media platforms** <br>
@@ -92,6 +103,10 @@ This study investigates the rapid growth and evolving network structure of Blues
 ## Work in progress
 **Compression of LLM Encoded Beliefs** <br>
 With Arash Badie-Modiri, Hasti Narimanzadeh, and Ted Hsuan Yun Chen <br>
+<details>
+<summary>Abstract</summary>
+Belief systems, which can be understood as networks of constraints between political attitudes, are central to our understanding of political attitude formation, polarization, and sorting. In this area of work, there is increasing interest in how individuals perceive of belief systems and their constituent attitude constraints as they exist in the minds of others and more broadly within society. Using large language models (LLMs) as a case study, we explore how our collective perceptions about belief systems are encoded in textual artifacts. As generative models that aggregate the immense amount of text human beings have written about one another, LLMs encode how we view ourselves and others. Existing studies show that LLMs are reasonably performant at guessing an individual’s political identity affiliations based on other known quantities about the individual’s political belief systems (i.e., a form of belief system constraints). As these models are designed for producing the aggregated best-guess of what is a much more multifaceted set of beliefs, such encoding runs the risk of oversimplifying or even caricaturizing human belief systems. In this study, we ask how LLMs’ encoding processes may yield different outputs from how human beings have collectively encoded this type of information, focusing on how well different LLMs’ guesses about human beliefs reflect the level of diversity among our own beliefs about one another. By comparing LLM outputs with responses from human surveys, we show that while LLMs closely resemble human beings in terms of ``best guesses'' (i.e., distribution means), the distribution of guesses across multiple LLM responses tend to be much less diverse than those from human respondents. Our work has implications for how this increasingly ubiquitous encoding-feedback process entrenches extreme beliefs about the level of political polarization that exists within society.
+</details>
 
 **Sexism, support for violence, and democratic support: Evidence from South Korea** <br>
 With Boyoon Lee and Yoonseok Lee <br>
