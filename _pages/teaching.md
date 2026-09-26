@@ -6,31 +6,20 @@ author_profile: true
 ---
 ## Instuctor
 
-### Ewha Womans University
+### Undergraduate
 
-<b>37542: Introduction to Interactive Media</b> <br>
-Undergraduate, Division of Communication & Media, Spring 2026   <br>
+SoDA 308 Research Design for Social Data Analytics (Fall 22) <br>
+37542 Introduction to Interactive Media (Spring 26) <br>
+37540-1 Media Writing and Public Speech (Spring 26) <br>
+39308 AI and Media (Fall 26) <br>
 
-<b>37540-1: Media Writing and Public Speech</b> <br>
-Undergraduate, Division of Communication & Media, Spring 2026 <br>
+### Graduate
 
-### Penn State
+G11606 Broadcasting Special Topic Seminar — Social and Entertainment Media (Fall 26) <br>
 
-<b>SoDA 308: Research Design for Social Data Analytics</b> [[Syllabus]](https://github.com/clearingkim/clearingkim.github.io/blob/master/files/Fall2022_syllabus_soda308.pdf) <br>
-Undergraduate, Department of Political Science & Social Data Analytics, Fall 2022 <br>
+## Student Advised
 
-## Teaching Assistant
-
-### Penn State
-
-<b>PLSC 10: Scientific Study of Politics</b> [[Syllabus]](https://github.com/clearingkim/clearingkim.github.io/blob/master/files/PLSC_10_Syllabus_SPRING_2022.pdf) <br>
-Undergraduate, Department of Political Science, Spring 2022 <br>
-Professor Jeremy Ladd
-
-<b>PLSC 1: American Politics</b> [[Syllabus]](https://github.com/clearingkim/clearingkim.github.io/blob/master/files/PLSC1_2020_Fall_Syllabus.pdf)  <br>
-Undergraduate, Department of Political Science, Fall 2020 <br>
-Professor Amy Sentementes
-
-<b>AFR 110: Introduction to Contemporary Africa</b> <br>
-Undergraduate, Department of Political Science, Fall 2018 <br>
-Professor Dube Sibusiwe
+Salome Khatiashvili (M.A. Expected 2027) <br>
+Zunibel Hortencia Rodriguez Ledesma (M.A. Expected 2027) <br>
+Martha Ayomide Jolomi (M.A. Expected 2027) <br>
+Yaroslava Shkolna (M.A. Expected 2027) <br>
