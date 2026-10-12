@@ -75,7 +75,7 @@ Livestreaming platforms have become consequential arenas for political communica
 
 **palsr: Projected Actor Locations for spatial modeling of dyadic interactions between moving actors** <br>
 With Howard Liu and Bruce Desmarais <br>
-*Under review* <br>
+*Invited to revise and resubmit to SoftwareX* <br>
 
 **Audited takedown delays across social media reveal failure to reduce exposure to illegal content** <br>
 With Bao Tran Truong, Erfan Samieyan Sahneh, Gianluca Nogara, Enrico Verdolotti, Florian Saurwein-Scherer, Natascha Just, Luca Luceri, Silvia Giordano, and Filippo Menczer <br>
